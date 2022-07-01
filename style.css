@@ -1,0 +1,84 @@
+.infor-header h1
+{
+    font-size: 50px;
+    font-weight: 700;
+}
+.jumbotron
+{
+    background-image: url(img/rgb.jpg);
+}
+.toptop
+{
+    background: rgb(7, 139, 216);
+}
+.nav nav-link
+{
+    color: black;
+}
+.infor-header h1
+{
+    font-size: 28px;
+    font-weight: 600;
+}
+.infor-body p
+{
+    line-height: 10px;
+}
+.col-6 img
+{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.col-66
+{
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.facebook img
+{
+    width: 50px;
+}
+.hver:hover{
+    transform: scale(0.9);
+}
+.infor-header
+{
+    color: aliceblue;
+}
+.infor-body
+{
+    color: aliceblue;
+}
+.experian
+{
+    /* border: 1px solid rebeccapurple; */
+}
+.ex1 img
+{
+    width: 95%;
+}
+.ex2
+{
+    background-image: url(img/tbl.jpg);
+    width: 100%;
+}
+.ex2 span
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+.flex
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+.location
+{
+    /* border: 1px solid red; */
+}
+.local02 
+{
+    margin-top: 100px;
+    margin-left: 100px;
+}
